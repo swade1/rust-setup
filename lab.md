@@ -34,3 +34,7 @@ This is the last assignment for this week. In this assignment, you'll configure 
 1. A GitHub repository with a `.devcontainer` directory with the configuration files for your Codespace.
 2. A `README.md` file that describes the configuration and how to use it.
 3. The repository has to be fully functional with Codespaces and you should be able to run it from the browser.
+
+
+I believe I have completed all the steps of this assignment except for making a change to the 
+repo and pushing it. This is my change: September 28, 2024.
