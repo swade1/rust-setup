@@ -38,3 +38,5 @@ This is the last assignment for this week. In this assignment, you'll configure 
 
 I believe I have completed all the steps of this assignment except for making a change to the 
 repo and pushing it. This is my change: September 28, 2024.
+
+Making another change here, October 3, 2024
